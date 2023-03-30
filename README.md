@@ -1,5 +1,4 @@
 # Web_Development_Projects
-<hr>
 <h1>Websites deployed:</h1>
 <hr>
 <p><em>Website quality gets better as we go down the list as these were made during learning process.</em></p>
