@@ -18,4 +18,8 @@
     <td><a href="https://atomworkplace.github.io/Web_Development_Projects/Second_Project/">Website: 2</a></td>
     <td>5 Wonderful Places on Earth</td>
   </tr>
+    <tr>
+    <td><a href="https://atomworkplace.github.io/Web_Development_Projects/Third_website/">Website: 3</a></td>
+    <td>10 Habbits of successful people.</td>
+  </tr>
 </table>
