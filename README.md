@@ -26,4 +26,8 @@
     <td><a href="https://atomworkplace.github.io/Web_Development_Projects/Fourth_website/">Website: 4</a></td>
     <td>App Promotion website.</td>
   </tr>
+  <tr>
+    <td><a href="https://atomworkplace.github.io/Web_Development_Projects/Dice%20Challenge/">Website: 5a></td>
+    <td>Dice Challeneg.</td>
+  </tr>
 </table>
