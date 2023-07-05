@@ -17,9 +17,4 @@
   <tr>
     <td><a href="https://atomworkplace.github.io/Web_Development_Projects/Dice%20Challenge/">Website: 2</a></td>
     <td>Dice Game.</td>
-  </tr>
-    <tr>
-    <td><a href="https://atomworkplace.github.io/Web_Development_Projects/Basic-Calculator/">Website: 3</a></td>
-    <td>Basic Calculator.</td>
-  </tr>
 </table>
