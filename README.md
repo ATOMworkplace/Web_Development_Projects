@@ -1,7 +1,7 @@
 # Web_Development_Projects
 <h1>Websites deployed:</h1>
 <hr>
-<p><em>Website quality and complexity gets better as we go down the list as these were made during the learning process.</em></p>
+<p><em>Website quality and complexity gets better as we go down the list as these were made during the learning process as these are one of the first projects I made.</em></p>
 <hr>
 <table>
   <thead>
