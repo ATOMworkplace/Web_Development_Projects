@@ -28,5 +28,5 @@ jobs:
             We will review it as soon as possible.
 
           pullRequestClosed: |
-          @{{ author }}
+            @{{ author }}
             Your pull request has been closed. Thank you for your contribution!
